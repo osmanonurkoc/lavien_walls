@@ -42,7 +42,7 @@
       "downloadable": true
     },
     {
-      "name": "Cyle De Guzman ",
+      "name": "Cyle De_Guzman ",
       "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/mono_dark/Cyle_De_Guzman.jpg",
       "collections": "",
       "downloadable": true
@@ -74,6 +74,12 @@
     {
       "name": "Filip Mroz ",
       "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/mono_dark/Filip_Mroz.jpg",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Fred Peters ",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/mono_dark/Fred_Peters.jpg",
       "collections": "",
       "downloadable": true
     },
@@ -127,6 +133,12 @@
     },
     {
       "name": "Pawel Czerwinski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/mono_dark/Pawel_Czerwinski2.jpg",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Pawel Czerwinski",
       "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/mono_dark/Pawel_Czerwinski_14.jpg",
       "collections": "",
       "downloadable": true
@@ -168,6 +180,12 @@
       "downloadable": true
     },
     {
+      "name": "Solen Feyissa ",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/mono_dark/Solen_Feyissa.jpg",
+      "collections": "",
+      "downloadable": true
+    },
+    {
       "name": "Theo Moine ",
       "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/mono_dark/Theo_Moine.jpg",
       "collections": "",
@@ -192,7 +210,7 @@
       "downloadable": true
     },
     {
-      "name": "Valentin Beauvais ",
+      "name": "Valentin Beauvais",
       "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/mono_dark/Valentin_Beauvais_2.jpg",
       "collections": "",
       "downloadable": true
