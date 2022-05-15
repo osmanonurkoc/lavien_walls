@@ -1,527 +1,740 @@
 [
     {
-      "name": "Abran Khan",
-      "author": "unsplash.com/@abrankhan",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/abran_khan.jpg",
-      "collections": "Pastel",
+      "name": "Aida",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Aida.jpg",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Annie Spratt",
-      "author": "unsplash.com/@anniespratt",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/Annie_Spratt.jpg",
-      "collections": "Pastel",
+      "name": "Alejandro Barba",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Alejandro_Barba",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Beasty Design",
-      "author": "unsplash.com/@beastydesign",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/beasty_design.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Eberhard Grossgasteiger",
-      "author": "unsplash.com/@eberhardgross",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/eberhard_grossgasteiger.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Eberhard Grossgasteiger",
-      "author": "unsplash.com/@eberhardgross",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/eberhard_grossgasteiger2.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Eberhard Grossgasteiger",
-      "author": "unsplash.com/@eberhardgross",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/eberhard_grossgasteiger3.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Elena Koycheva",
-      "author": "unsplash.com/@lenneek",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/elena_koycheva.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Heather Ford",
-      "author": "unsplash.com/@the_modern_life_mrs",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/heather_ford-the_modern_life.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Krystal Ng",
-      "author": "unsplash.com/@bykrystal",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/Krystal_ng.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Mae Mu",
-      "author": "unsplash.com/@picoftasty",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/mae_mu-pic_of_tasty.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Martin de Arriba",
-      "author": "unsplash.com/@martindearriba",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/martin_dearriba.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski2.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski3.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski4.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski5.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski6.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski7.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski8.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/pawel_czerwinski9.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Wesley Tingey",
-      "author": "unsplash.com/@wesleyphotography",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/wesley_photography.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Wolf Zimmermann",
-      "author": "unsplash.com/@wzimmermann",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/pastel/Wolf_Zimmermann.jpg",
-      "collections": "Pastel",
-      "downloadable": true
-    },
-    {
-      "name": "Alexandru Acea",
-      "author": "unsplash.com/@alexacea",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/alexandru_acea-blossom.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Allec Gomes",
-      "author": "unsplash.com/@allecgomes",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/allec_gomes.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Andrew Ridley",
-      "author": "unsplash.com/@aridley88",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/andrew_ridley.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Annie Spratt",
-      "author": "unsplash.com/@anniespratt",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/annie_spratt.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Annie Spratt",
-      "author": "unsplash.com/@anniespratt",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/annie_spratt2.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Annie Spratt",
-      "author": "unsplash.com/@anniespratt",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/annie_spratt3.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Artem Sapegin",
-      "author": "unsplash.com/@sapegin",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/artem_sapegin.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Beasty Design",
-      "author": "unsplash.com/@beastydesign",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/beasty_design.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Benjamin Davies",
-      "author": "unsplash.com/@bendavisual",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/benjamin_davies.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Biel Morro",
-      "author": "unsplash.com/@bielmorro",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/biel_morro.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Casey Horner",
-      "author": "unsplash.com/@mischievous_penguins",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/casey_horner.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Chris Yang",
-      "author": "unsplash.com/@chrisyangchrisfilm",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/chris_yang.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Danielle Dolson",
-      "author": "unsplash.com/@danielle_dolson",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/danielle_dolson.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Daniel Olah",
-      "author": "unsplash.com/@danesduet",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/daniel_olah.jpg",
-      "collections": "Lavien",
+      "name": "Balkouras Nicos",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Balkouras_Nicos",
+      "collections": "",
       "downloadable": true
     },
     {
       "name": "David Pisnoy",
-      "author": "unsplash.com/@davidpisnoy",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/david_pisnoy.jpg",
-      "collections": "Lavien",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/David_Pisnoy",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Deny Abdurahman",
-      "author": "unsplash.com/@denyabdurahman",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/deny_abdurahman.jpg",
-      "collections": "Lavien",
+      "name": "Eberhard Grossgasteiger",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Eberhard_Grossgasteiger",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Dylann Hendricks",
-      "author": "unsplash.com/@dylanhendricks",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/dylan_hendricks.jpg",
-      "collections": "Lavien",
+      "name": "Famara Marmiesse",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Famara_Marmiesse",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Emjeii Beattie",
-      "author": "unsplash.com/@emjeiiamira",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/emjeii_beattie.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Fatih Yürür",
-      "author": "unsplash.com/@fatihyurur",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/fatih_yurur-sultanahmet.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Fred Peters",
-      "author": "unsplash.com/@frdptrs",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/Fred_Peters-Holt_Street.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Gauravdeep Singh Bansal",
-      "author": "unsplash.com/@gauravdsb",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/Gauravdeep_Singh_Bansal.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Guille Pozzi",
-      "author": "unsplash.com/@guillepozzi",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/guille_pozzi.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Henrique Macedo",
-      "author": "unsplash.com/@henrique",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/henrique_macedo.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Izuddin Helmi Adnan",
-      "author": "unsplash.com/@izuddinhelmi",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/izuddin_helmi_adnan.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Jamie Davies",
-      "author": "unsplash.com/@jamie_davies",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/jamie_davies.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Jenny Caywood",
-      "author": "",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/jenny_caywood.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "João Barbosa",
-      "author": "unsplash.com/@jpgbarbosa",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/joao_barbosa.jpg",
-      "collections": "Lavien",
+      "name": "Iccup",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Iccup",
+      "collections": "",
       "downloadable": true
     },
     {
       "name": "Joel Filipe",
-      "author": "unsplash.com/@joelfilip",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/joel_filipe.jpg",
-      "collections": "Lavien",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Joel_Filipe",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Joel Naren",
-      "author": "unsplash.com/@joeljnaren",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/joel_jnaren.jpg",
-      "collections": "Lavien",
+      "name": "Joyce G",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Joyce_G",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "John Jennings",
-      "author": "unsplash.com/@john_jennings",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/john_jennings.jpg",
-      "collections": "Lavien",
+      "name": "Max Saeling",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Max_Saeling",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Khai Truong",
-      "author": "unsplash.com/@teatyped",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/Khai_Truong_.jpg",
-      "collections": "Lavien",
+      "name": "Melyna Valle",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Melyna_Valle",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Kristaps Ungurs",
-      "author": "unsplash.com/@kristapsungurs",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/kristaps_ungurs.jpg",
-      "collections": "Lavien",
+      "name": "Michele Wales",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Michele_Wales",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Kyle Fritz",
-      "author": "unsplash.com/@kylefritz_",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/kyle_fritz.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Markus Spiske",
-      "author": "unsplash.com/@markusspiske",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/markus_spiske-Baumwipfelpfad_Schwarzwald.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Mark Zuravski",
-      "author": "unsplash.com/@mark_zuravski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/mark_zuravski.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Marliese Streefland",
-      "author": "unsplash.com/@marliesebrandsma",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/marliese_streefland.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Martin Sanchez",
-      "author": "unsplash.com/@zekedrone",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/Martin_Sanchez.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Michael Olsen",
-      "author": "unsplash.com/@mganeolsen",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/michael-olsen.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "MontyLov",
-      "author": "montylov.com",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/montylov.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Munro Studio",
-      "author": "unsplash.com/@universaleye",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/munro_studio.jpg",
-      "collections": "Lavien",
-      "downloadable": true
-    },
-    {
-      "name": "Nathalia Segato",
-      "author": "unsplash.com/@nathsegato",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/Nathalia_Segato.jpg",
-      "collections": "Lavien",
+      "name": "Paula Borowska",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Paula_Borowska",
+      "collections": "",
       "downloadable": true
     },
     {
       "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/pawel_czerwinski.jpg",
-      "collections": "Lavien",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Pawel_Czerwinski",
+      "collections": "",
       "downloadable": true
     },
     {
       "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/pawel_czerwinski2.jpg",
-      "collections": "Lavien",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Pawel_Czerwinski_2",
+      "collections": "",
       "downloadable": true
     },
     {
       "name": "Pawel Czerwinski",
-      "author": "unsplash.com/@pawel_czerwinski",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/pawel_czerwinski3.jpg",
-      "collections": "Lavien",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Pawel_Czerwinski_3",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Ryan Searle",
-      "author": "unsplash.com/@ryansearle",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/ryan_searle.jpg",
-      "collections": "Lavien",
+      "name": "Pawel Czerwinski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Pawel_Czerwinski_4",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Ryunosuke Kikuno",
-      "author": "unsplash.com/@ryunosuke_kikuno",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/ryunosuke_kikuno.jpg",
-      "collections": "Lavien",
+      "name": "Pawel Czerwinski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Pawel_Czerwinski_5",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Shifaaz Shamoon",
-      "author": "unsplash.com/@sotti",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/shifaaz_shamoon.jpg",
-      "collections": "Lavien",
+      "name": "Pawel Czerwinski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Pawel_Czerwinski_6",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Sawyer Bengtson",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Sawyer_Bengtson",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Scott Webb",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Scott_Webb",
+      "collections": "",
       "downloadable": true
     },
     {
       "name": "Solen Feyissa",
-      "author": "unsplash.com/@solenfeyissa",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/solen_feyissa.jpg",
-      "collections": "Lavien",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Solen_Feyissa",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Théo Roland",
-      "author": "unsplash.com/@rolandtheo",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/theo_roland.jpg",
-      "collections": "Lavien",
+      "name": "Trayan",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/blue/Trayan",
+      "collections": "",
+      "downloadable": true
+    },
+        {
+      "name": "Alejandro Barba",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Alejandro_Barba.jpg",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Tom Barrett",
-      "author": "unsplash.com/@wistomsin",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/tom_barrett.jpg",
-      "collections": "Lavien",
+      "name": "Andrii Solok",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Andrii_Solok",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Annie Spratt",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Annie_Spratt",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Annie Spratt",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Annie_Spratt_2",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Annie Spratt",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Annie_Spratt_3",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Daniela Beleva",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Daniela_Beleva",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Eniola Bakare",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Eniola_Bakare",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Guzman Barquin",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Guzman_Barquin",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Hans Isaacson",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Hans_Isaacson",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Ivan Liu_Hu",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Ivan_Liu_Hu",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Juli Kosolapova",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Juli_Kosolapova",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Kelly Sikkema",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Kelly_Sikkema",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Kian Jafari",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Kian_Jafari",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Kiran Gurung",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Kiran_Gurung",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Klara Kulikova",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Klara_Kulikova",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Liana Mikah",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Liana_Mikah",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Liana Mikah",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Liana_Mikah_2",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Markus Spiske",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Markus_Spiske",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Mathias Reding",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Mathias_Reding",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Mathias Reding",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Mathias_Reding_2",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Matt Artz",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Matt_Artz",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Nathan Dumlao",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Nathan_Dumlao",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Pawel Czerwinski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Pawel_Czerwinski",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Rendy Novantino",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Rendy_Novantino",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Rob Evel",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Rob_Evel",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Susan Wilkinson",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Susan_Wilkinson",
+      "collections": "",
       "downloadable": true
     },
     {
       "name": "Victoria Palacios",
-      "author": "unsplash.com/@toriamia",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/victoria-palacios.jpg",
-      "collections": "Lavien",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Victoria_Palacios",
+      "collections": "",
       "downloadable": true
     },
     {
       "name": "Wolfgang Hasselmann",
-      "author": "unsplash.com/@wolfgang_hasselmann",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/wolfgang_hasselmann.jpg",
-      "collections": "Lavien",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/brown/Wolfgang_Hasselmann",
+      "collections": "",
+      "downloadable": true
+    },
+        {
+      "name": "Annie Spratt",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Annie_Spratt.jpg",
+      "collections": "",
       "downloadable": true
     },
     {
-      "name": "Yousef Alfuhigi",
-      "author": "",
-      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/wallpaper/yousef_alfuhigi.jpg",
-      "collections": "Lavien",
+      "name": "Bryan Colosky",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Bryan_Colosky",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Dose Juice",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Dose_Juice",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Gradienta",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Gradienta_2",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Lisa Yount",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Lisa_Yount",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Milad Fakurian",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Milad_Fakurian",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Nahil Naseer",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Nahil_Naseer",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Tim Hufner",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Tim_Hufner",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Tracey Isles",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Tracey_Isles",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Vickholius Nugroho",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/green/Vickholius_Nugroho",
+      "collections": "",
+      "downloadable": true
+    },
+        {
+      "name": "Akshay Vishwakarma",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Akshay_Vishwakarma.jpg",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Alexandru Acea",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Alexandru_Acea",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Amy Shamblen",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Amy_Shamblen",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Andrii Ganzevych",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Andrii_Ganzevych",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Bilguun Bat_Urnult",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Bilguun_Bat_Urnult",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Fabian Bachli",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Fabian_Bachli",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Fanning Tseng",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Fanning_Tseng",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Iris Laura",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Iris_Laura",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Joshua Sun",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Joshua_Sun",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Lionel Gustave",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Lionel_Gustave",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Marcus Lenk",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Marcus_Lenk",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Mike Castro_Demaria",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Mike_Castro_Demaria",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Modern Affliction",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Modern_Affliction",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Olga Subach",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Olga_Subach",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Pawel Czerwinski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Pawel_Czerwinski",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Scott Webb",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Scott_Webb",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Scott Webb_2",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Scott_Webb_2",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Solen Feyissa",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Solen_Feyissa",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Tracey Hocking",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/pink/Tracey_Hocking",
+      "collections": "",
+      "downloadable": true
+    },
+        {
+      "name": "Alexandru Acea",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Alexandru_Acea.jpg",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Antonio Grosz",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Antonio_Grosz",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Ashley Whitlatch",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Ashley_Whitlatch",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Cadabullos Diseno",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Cadabullos_Diseno",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Cristian",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Cristian",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Daniel Koponyas",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Daniel_Koponyas",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Daniele Levis_Pelusi",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Daniele_Levis_Pelusi",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Derick Mckinney",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Derick_Mckinney",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Emma Ws",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Emma_Ws",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Gradienta",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Gradienta",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Jacob Thomas",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Jacob_Thomas",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Jene Stephaniuk",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Jene_Stephaniuk",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Jene Stephaniuk_2",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Jene_Stephaniuk_2",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Joyce Toh",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Joyce_Toh",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Kal Visuals",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Kal_Visuals",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Ken Yeung",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Ken_Yeung",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Konstantin Pudan",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Konstantin_Pudan",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Kseniya Lapteva",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Kseniya_Lapteva",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Luke Chesser",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Luke_Chesser",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Maksym Potapenko",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Maksym_Potapenko",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Margaret Jaszowska",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Margaret_Jaszowska",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Oxana Doroshkevich",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Oxana_Doroshkevich",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Pawel Czerwinski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Pawel_Czerwinski",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Pawel Czerwinski_2",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Pawel_Czerwinski_2",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Photographycourse",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Photographycourse",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Sharon Mccutcheon",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Sharon_Mccutcheon",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Susan Wilkinson",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Susan_Wilkinson",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Venturae",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Venturae",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Xianyu Hao",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/purple/Xianyu_Hao",
+      "collections": "",
+      "downloadable": true
+    },
+        {
+      "name": "Carles Rabada",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Carles_Rabada.jpg",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Carles Rabada_2",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Carles_Rabada_2",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Fotis Nakos",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Fotis_Nakos",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "George Pagan",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/George_Pagan",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Hannah Troupe",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Hannah_Troupe",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Ignacio M",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Ignacio_M",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Ishan Seefromthesky",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Ishan_Seefromthesky",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Jono Hirst",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Jono_Hirst",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Logan Armstrong",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Logan_Armstrong",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Meric Dagle",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Meric_Dagle",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Pawel Czerwinski",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Pawel_Czerwinski",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Prajjwal Garg",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Prajjwal_Garg",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Simone Hutsch",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Simone_Hutsch",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Siora Photography",
+      "url": "https://raw.githubusercontent.com/osmanonurkoc/lavien_walls/master/accent/teal/Siora_Photography",
+      "collections": "",
       "downloadable": true
     }
   ]
